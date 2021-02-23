@@ -28,7 +28,7 @@ Definir los valores de las siguientes variables de entorno:
  - `IDIOMAS_CAMPUS_CRUD__SCHEMA`: Esquema a utilizar en la base de datos
 
 ## Ejemplo
-IDIOMAS_CAMPUS_CRUD_HTTP_PORT=8103 IDIOMAS_CAMPUS_CRUD__PGUSER=user IDIOMAS_CAMPUS_CRUD__PGPASS=password IDIOMAS_CAMPUS_CRUD__PGURLS=localhost IDIOMAS_CAMPUS_CRUD__PGDB=bd IDIOMAS_CAMPUS_CRUD__SCHEMA=schema_new bee run
+IDIOMAS_CAMPUS_CRUD_HTTP_PORT=8103 IDIOMAS_CAMPUS_CRUD__PGUSER=user IDIOMAS_CAMPUS_CRUD__PGPASS=password IDIOMAS_CAMPUS_CRUD__PGURLS=localhost IDIOMAS_CAMPUS_CRUD__PGDB=bd IDIOMAS_CAMPUS_CRUD__SCHEMA=idiomas bee run
 
 ## Modelo BD
 ![image](https://github.com/udistrital/idiomas_crud/blob/develop/modelo_idiomas_crud.png).
