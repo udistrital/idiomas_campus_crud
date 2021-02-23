@@ -33,3 +33,4 @@ IDIOMAS_CAMPUS_CRUD_HTTP_PORT=8103 IDIOMAS_CAMPUS_CRUD__PGUSER=user IDIOMAS_CAMP
 ## Modelo BD
 ![image](https://github.com/udistrital/idiomas_crud/blob/develop/modelo_idiomas_crud.png).
 
+
